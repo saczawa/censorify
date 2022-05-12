@@ -1,0 +1,19 @@
+{
+    "author": "Mateusz Saczawa",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Cenzuruje slowa w tekscie",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saczawa/node_js_training/tree/main/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
